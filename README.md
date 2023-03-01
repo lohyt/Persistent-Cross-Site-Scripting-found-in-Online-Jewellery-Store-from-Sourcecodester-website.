@@ -1,0 +1,1 @@
+# Persistent-Cross-Site-Scripting-found-in-Online-Jewellery-Store-from-Sourcecodester-website.
