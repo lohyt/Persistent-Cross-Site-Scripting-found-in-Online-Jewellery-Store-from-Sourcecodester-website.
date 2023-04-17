@@ -1,4 +1,4 @@
-# Persistent-Cross-Site-Scripting-found-in-Online-Jewellery-Store-from-Sourcecodester-website.
+# Persistent-Cross-Site-Scripting-found-in-Online-Jewellery-Store-from-Sourcecodester-website - CVE-2023-27776
 
 Description: Persistent Cross Site Scripting leads to Cookie Stealing in Online Jewellery Store from Sourcecodester website.
 
